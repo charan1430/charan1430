@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charan Teja</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 - 👯 I’m looking to collaborate on **Backend projects**
 
-- 📫 How to reach me **21ht1a0550ch@gmail.com**
+- 📫 How to reach me **karupallicharanteja63@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GvZjaSyJEvLAITapGJezjbkaqXjh07-D/view?usp=drivesdk](https://drive.google.com/file/d/1GvZjaSyJEvLAITapGJezjbkaqXjh07-D/view?usp=drivesdk)
 
